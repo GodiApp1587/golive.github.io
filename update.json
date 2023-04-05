@@ -1,0 +1,14 @@
+{
+    "downloadlink": 
+"https://play.google.com/store/apps/details?id=com.godimexico.golive",
+    "versionnumber": "1.4.6",
+    "changelog": "goLive v1.4.6 update includes:\n- Much much 
+faster syncing speed (this is achieved by changing the database 
+online so, if you want to transfer the saved titles you have 
+online you must sync the items to local bookmark first, it's a 
+bit technical but it is what it is)\n- Soundtrack section is 
+back working\n- UI fix\n- Bug fix and general quality of life 
+update\nMinimum Android version required to run the app: 5.0 or 
+Lollipop or up"
+  
+}
